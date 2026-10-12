@@ -1,5 +1,14 @@
 #pragma once
 #include <string>
+#include <vector>
+#include <algorithm>
+
+struct playerEntry{
+    std::string difficulty;
+    int score;
+    int time;
+    std::string playerName;
+};
 
 class ScoreManager{
 private:

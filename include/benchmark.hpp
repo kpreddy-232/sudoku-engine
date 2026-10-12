@@ -4,3 +4,4 @@ class Benchmark {
 public:
     static void run(int puzzles);
 };
+
