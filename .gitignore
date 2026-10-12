@@ -1,0 +1,13 @@
+#All Executables
+*.exe
+*.out
+
+
+.vscode/
+build/
+
+#Personal Documentation.
+info.txt
+
+#sample input
+sample_input.txt
